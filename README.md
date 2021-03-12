@@ -6,6 +6,6 @@ It comes in three variants: an **HQ** version, an **EDGE** version, and a **Clou
 
 To install the demo, run *install-demo-<variant>.sh*.  Run the app using *run-<variant>Dashboard.sh*.  Follow the instructions to establish a connection from a web browser. See the documentation for comprehensive setup instructions.
 
-<img src="images/edge-to-cloud-data-fabric.jpg" alt="Edge-to-Cloud Data Fabric" width="250"/>
+<img src="images/edge-to-cloud-data-fabric.png" alt="Edge-to-Cloud Data Fabric" width="250"/>
 
 <img src="images/mobile-edge-cluster-2.jpg" alt="Edge Cluster" width="200"/>
