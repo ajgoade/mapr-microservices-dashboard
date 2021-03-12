@@ -6,4 +6,4 @@ It comes in three variants: an **HQ** version, an **EDGE** version, and a **Clou
 
 To install the demo, run *install-demo-<variant>.sh*.  Run the app using *run-<variant>Dashboard.sh*.  Follow the instructions to establish a connection from a web browser. See the documentation for comprehensive setup instructions.
 
-![Edge Cluster](images/mobile-edge-cluster-2.jpg)
+![Edge Cluster](images/mobile-edge-cluster-2.jpg =100x)
