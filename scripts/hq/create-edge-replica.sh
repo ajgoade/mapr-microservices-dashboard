@@ -1,2 +1,2 @@
 echo Setting up replication ...
-(set -x; maprcli stream replica autosetup -path /mapr/dc1.enterprise.org/apps/pipeline/data/replicatedStream -replica /mapr/edge1.enterprise.org/apps/pipeline/data/replicatedStream -multimaster true)
+(set -x; maprcli stream replica autosetup -path /mapr/edge.df70.com/apps/pipeline/data/replicatedStream -replica /mapr/core.df70.com/apps/pipeline/data/replicatedStream -multimaster true)

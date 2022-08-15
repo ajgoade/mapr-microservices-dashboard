@@ -4,7 +4,7 @@
   <Set name="contextPath">/images</Set>
   <Set name="handler">
     <New class="org.eclipse.jetty.server.handler.ResourceHandler">
-      <Set name="resourceBase">/mapr/dc1.enterprise.org/apps/pipeline/data/nasa/image_files</Set>
+      <Set name="resourceBase">/mapr/edge.df70.com/apps/pipeline/data/nasa/image_files</Set>
       <Set name="directoriesListed">true</Set>
     </New>
   </Set>

@@ -22,10 +22,10 @@ echo "MapR has to be up and running."
 
 if [ "$EDITION" = 'hq' ]; then
   echo "Installing HQ demo edition."
-  CLUSTER_NAME=dc1.enterprise.org
+  CLUSTER_NAME=edge.df70.com
 elif [ "$EDITION" = 'edge' ]; then
   echo "Installing EDGE demo edition."
-  CLUSTER_NAME=edge1.enterprise.org
+  CLUSTER_NAME=core.df70.com
 else
   echo "Installing CLOUD demo edition."
   CLUSTER_NAME=aws1.enterprise.org
